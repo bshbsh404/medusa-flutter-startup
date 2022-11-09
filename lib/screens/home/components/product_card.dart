@@ -1,7 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:my_store/model/product_model.dart' as model;
-import 'package:my_store/screens/details/product_details.dart';
+import 'package:sol_customer_portal/model/product_model.dart' as model;
+import 'package:sol_customer_portal/screens/details/product_details.dart';
+
 
 class ProductCard extends StatelessWidget {
   const ProductCard({Key? key, required this.product}) : super(key: key);

@@ -1,7 +1,8 @@
 import 'dart:convert';
 import 'package:http/http.dart' as http;
-import 'package:my_store/api/base.dart';
-import 'package:my_store/model/product_model.dart';
+import 'package:sol_customer_portal/model/product_model.dart';
+
+import 'base.dart';
 
 class ProductApi {
   Future<List<Products>> getAllProducts() async {

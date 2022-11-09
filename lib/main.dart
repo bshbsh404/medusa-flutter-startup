@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:my_store/screens/splash_screen.dart';
+import 'package:sol_customer_portal/screens/splash_screen.dart';
 
 void main() {
   runApp(const MyApp());

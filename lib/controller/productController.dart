@@ -1,6 +1,7 @@
 import 'package:get/get.dart';
-import 'package:my_store/api/products_api.dart';
-import 'package:my_store/model/product_model.dart';
+import '../api/products_api.dart';
+
+import '../model/product_model.dart';
 
 class AllProductsController extends GetxController {
   var getAllProducts = <Products>[].obs;

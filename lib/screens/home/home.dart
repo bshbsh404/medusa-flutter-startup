@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_store/screens/home/components/products.dart';
+import 'package:sol_customer_portal/screens/home/components/products.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

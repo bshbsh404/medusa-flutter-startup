@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:my_store/model/product_model.dart';
+import 'package:sol_customer_portal/model/product_model.dart';
 
 class ProductPrice extends StatelessWidget {
   const ProductPrice({Key? key, required this.product}) : super(key: key);

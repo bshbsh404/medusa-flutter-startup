@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:my_store/controller/productController.dart';
-import 'package:my_store/screens/home/components/product_card.dart';
+import 'package:sol_customer_portal/controller/productController.dart';
+import 'package:sol_customer_portal/screens/home/components/product_card.dart';
 
 class AllProducts extends StatelessWidget {
   final productController = Get.put(
