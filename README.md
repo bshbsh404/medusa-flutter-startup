@@ -1,4 +1,4 @@
-# my-store
+# Sol-platform-setup
 This is an E-commerce app built with Medusa Backend and Flutter
 
 ## Getting Started
