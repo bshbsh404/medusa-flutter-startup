@@ -16,7 +16,7 @@ flutter pub get
 
 ## Next,
 
-Change the IP address to your IP address in the `lib/api/base.dart` file
+Change the IP address to your IP address in the `lib/api/base.dart` file , Mostly it will for now, it is 192.168.0.180 port 3000
 
 ## Finally, Run the application using
 
